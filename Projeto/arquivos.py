@@ -2,9 +2,9 @@
 
 import os.path
 
-arquivoCliente = "clientes.txt"
-arquivoMedicamento = "medicamentos.txt"
-arquivoVenda = "vendas.txt"
+arquivoCliente = "Projeto/clientes.txt"
+arquivoMedicamento = "Projeto/medicamentos.txt"
+arquivoVenda = "Projeto/vendas.txt"
     
 def verificaExistenciaDoAquivo(nomeArquivo):
     if (not os.path.isfile(nomeArquivo)):
