@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 27 11:24:20 2021
-
-@author: daany
-"""
-
 import cliente
 import arquivos
 import medicamento

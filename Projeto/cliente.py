@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 25 15:52:03 2021
-
-@author: daany
-"""
-
 import pandas as pd
 import time
 import arquivos
